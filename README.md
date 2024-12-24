@@ -16,6 +16,61 @@ Here are some ideas to get you started:
 -->
 
 
+<!-- 2nd changes to github profile -->
+
+# 👋 **Hi, I'm Chhotu Goud**  
+
+**B.Tech CSE Student | Web Developer | Tech Enthusiast**  
+Currently studying at **University Institute of Technology, RGPV, Shivpuri, MP**. Passionate about building innovative solutions and exploring new technologies.  
+
+---
+
+## 💻 **Passions**  
+- **Web Development** & **Coding**  
+- Creating **innovative solutions** that make an impact
+
+## ✨ **Skills & Expertise**  
+- **Frontend Development**  
+- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- Strong focus on crafting **intuitive** and **responsive web interfaces**
+
+## 📚 **Interests**  
+- Fascinated by how **websites** and **mobile apps** work, fueling my curiosity to **learn** and **innovate**  
+- Enjoy **reading books**, **playing chess**, and exploring **space** and **sci-fi movies**
+
+---
+
+## 🚀 **Notable Projects**  
+
+### 1. **Pandit Booking Website**  
+A modern web application built using the **MERN Stack** with **Tailwind CSS**. The platform allows users to:  
+- View **pandit profiles**, check availability, and book online  
+- Make secure payments via **Razorpay**  
+- Includes an **admin dashboard** for managing users, bookings, and payments
+
+You can check it out on my [GitHub Repository](https://github.com/your-github-username/Pandit-Booking-Website).
+
+---
+
+## 🎯 **Goals**  
+- Become a **skilled software engineer**  
+- Contribute meaningfully to the **tech industry**  
+- Collaborate on exciting projects and build **innovative solutions**
+
+---
+
+## 🤝 **Let's Collaborate!**  
+I’m always open to collaborations, and I welcome **contributors** to my projects. Let’s connect and create something amazing together! 🚀
+
+---
+
+## 📫 **Connect with Me**  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- Email: [your-email@example.com](mailto:your-email@example.com)  
+
+Feel free to check out my repositories and get in touch! 😊
+
+<!--
 
 # Chhotu Goud 👋:
 
@@ -39,7 +94,7 @@ Here are some ideas to get you started:
 - **🤝 Collaboration:**  
   Open to collaborations and eager to work on exciting projects. Let’s connect and create something amazing together! 🚀
 
-
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chhotu-goud-linkdin) 
