@@ -48,7 +48,7 @@ A modern web application built using the **MERN Stack** with **Tailwind CSS**. T
 - Make secure payments via **Razorpay**  
 - Includes an **admin dashboard** for managing users, bookings, and payments
 
-You can check it out on my [GitHub Repository](https://github.com/your-github-username/Pandit-Booking-Website).
+You can check it out on my [GitHub Repository](https://github.com/chhotugoud7/Pandit-Booking-Website).
 
 ---
 
@@ -65,8 +65,8 @@ I’m always open to collaborations, and I welcome **contributors** to my projec
 ---
 
 ## 📫 **Connect with Me**  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- Email: [your-email@example.com](mailto:your-email@example.com)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chhotu-goud-linkdin/)  
+- Leetcode: [Leetcode Profile](https://leetcode.com/u/Chhotugoud/)  
 
 Feel free to check out my repositories and get in touch! 😊
 
